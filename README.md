@@ -1,4 +1,4 @@
-# Lab Homework Assignment - Object Oriented Programming using C++
+# Lab 0 - NYUAD Object Oriented Programming using C++
 
 Welcome to the Object Oriented Programming (OOP) lab homework assignment in C++. This assignment aims to achieve the below two objectives:
 - **Objective 1:** Help you understand the concept of code organization and best practices through the use of GitHub and Github Classrooms
