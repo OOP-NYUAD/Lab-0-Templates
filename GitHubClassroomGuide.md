@@ -1,4 +1,4 @@
-<img width="1440" alt="Screenshot 2023-09-02 at 5 47 29 PM" src="https://github.com/OOP-NYUAD/Lab-0-Templates/assets/7103693/8428040f-f82c-4b59-9331-d71c17c3ee43"># GitHub Classroom Setup Guide
+# GitHub Classroom Setup Guide
 
 This guide will walk you through the process of setting up your GitHub Classroom assignment, creating a private code repository, and managing your assignment. Follow these steps to get started.
 
