@@ -14,22 +14,24 @@ Before proceeding, you can also watch this video guide on [GitHub Classroom: How
 1. Open the [GitHub Classroom Assignment Link](https://classroom.github.com/a/kUto0W2q) in your web browser.
 
 2. If you are not registered on GitHub Classroom, you will be prompted to create an account.
+   
 <img width="202" alt="image" src="https://github.com/OOP-NYUAD/Lab-0-Templates/assets/7103693/78b12ced-4a01-4781-88ae-4e54a26d1294">
 
-3. After registration, you will be asked to join the classroom assignment.
+4. After registration, you will be asked to join the classroom assignment.
+   
    <img width="468" alt="image" src="https://github.com/OOP-NYUAD/Lab-0-Templates/assets/7103693/38fb96f7-ed19-460d-98a7-8acfec7b7cb6">
 
 
-5. Check if your name is in the list of registered students for the lab. Select your name.
+6. Check if your name is in the list of registered students for the lab. Select your name.
 
    - If you can't find your name, click "Skip to the next step" at the bottom right.
   
      <img width="468" alt="image" src="https://github.com/OOP-NYUAD/Lab-0-Templates/assets/7103693/0ef2c34d-2ce1-4a98-85ac-ff8a853394c8">
 
 
-6. Once you click your name, it will be associated with your GitHub Classroom username.
+7. Once you click your name, it will be associated with your GitHub Classroom username.
 
-7. Accept the assignment as shown in the image below.
+8. Accept the assignment as shown in the image below.
 
    <img width="468" alt="image" src="https://github.com/OOP-NYUAD/Lab-0-Templates/assets/7103693/eca451d5-0e43-4df6-8193-be01a81993db">
 
